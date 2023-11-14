@@ -18,7 +18,7 @@ Ce qu'il est requis pour commencer avec votre projet...
 
 ### Installation
 
-Télécharger les dossiers "Assets" "Packages" "ProjectSettings" et "UserSettings" et placer les dans un dossier faisant partit de vos projets Unity.
+Télécharger les dossiers "Assets" "Packages" ainsi que "ProjectSettings" et placer les dans un dossier faisant partie de vos projets Unity.
 
 ## Démarrage
 
