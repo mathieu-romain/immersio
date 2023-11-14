@@ -15,6 +15,7 @@ Ce qu'il est requis pour commencer avec votre projet...
 
 - Casque VR
 - Unity ( pour pouvoir visionner et modifier l'application, ce n'est pas obligatoire pour jouer )
+- Ordinateur sous Windows
 
 ### Installation
 
