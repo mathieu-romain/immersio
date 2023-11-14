@@ -35,8 +35,6 @@ Maintenant qu'il fait partie de votre liste de projet vous n'avez plus qu'à le 
 
 **Dernière version :** 1.0
 
-Liste des versions : [Cliquer pour afficher](https://github.com/mathieu-romain/immersio/tags)
-
 ## Auteurs
 
 * **Mathieu Romain** _alias_ [@mathieu-romain](https://github.com/mathieu-romain)
