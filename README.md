@@ -9,6 +9,8 @@ Immersio est un projet d'étudiant de BUT 3 à l'université de Toulon. Ce proje
 
 Afin de profiter de cette expérience immersive veuillez vous munir d'un casque de réalité virtuelle !
 
+A noter que les vidéos ne sont pas présentes car elles sont trop volumineuses.
+
 ### Pré-requis
 
 Ce qu'il est requis pour commencer avec votre projet...
