@@ -33,9 +33,9 @@ Maintenant qu'il fait partie de votre liste de projet vous n'avez plus qu'à le 
 
 ## Versions
 
-**Dernière version stable :** 1.0
+**Dernière version stable :** 2.0
 
-**Dernière version :** 1.0
+**Dernière version :** 2.0
 
 ## Auteurs
 
