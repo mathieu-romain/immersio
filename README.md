@@ -15,13 +15,14 @@ A noter que les vidéos ne sont pas présentes car elles sont trop volumineuses.
 
 Ce qu'il est requis pour commencer avec votre projet...
 
-- Casque VR
-- Unity ( pour pouvoir visionner et modifier l'application, ce n'est pas obligatoire pour jouer )
+- Casque VR ( De préférence Oculus META Quest 2 )
+- Unity ( Pour avoir la version développeur disponible dans le dossier src ou téléchargez simplement le dossier build et lancez immersio.exe pour jouer )
 - Ordinateur sous Windows
 
 ### Installation
 
-Télécharger les dossiers "Assets" "Packages" ainsi que "ProjectSettings" et placer les dans un dossier faisant partie de vos projets Unity.
+Télécharger les dossiers "Assets" "Packages" ainsi que "ProjectSettings" situés dans le dossier code/src et placer les dans un nouveau dossier.
+Maintenant ajoutez ce dossier à votre liste de projet --> "Add project from disk" sur Unity Hub.
 
 ## Démarrage
 
