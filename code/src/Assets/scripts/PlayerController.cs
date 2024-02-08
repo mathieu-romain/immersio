@@ -7,14 +7,33 @@ public class PlayerController : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
  {
-    if(other.gameObject.name =="Portal1"){
-        SceneManager.LoadScene("video1");}
+    if(other.gameObject.name =="PortalToFort"){
+        Debug.Log("PortalToFort touché --> scène Fort lancée");
+        SceneManager.LoadScene("Fort");}
 
-    else if(other.gameObject.name =="Portal2"){
-    SceneManager.LoadScene("video2");}
+    else if(other.gameObject.name =="PortalToBeach"){
+        Debug.Log("PortalToBeach touché --> scène VideoBeach lancée");
+        SceneManager.LoadScene("VideoBeach");}
 
-    else if(other.gameObject.name =="Water"){
-        transform.position = new Vector3(4, 0, -2);}
+        else if(other.gameObject.name =="PortalToBeach2"){
+        Debug.Log("PortalToBeach touché --> scène VideoBeach2 lancée");
+        SceneManager.LoadScene("VideoBeach2");}
+
+            else if(other.gameObject.name =="PortalToSea"){
+                Debug.Log("PortalToSea touché --> scène VideoSea lancée");
+                SceneManager.LoadScene("VideoSea");}
+
+                else if(other.gameObject.name =="PortalToEarth"){
+                    Debug.Log("PortalToEarth touché --> scène VideoEarth lancée");
+                    SceneManager.LoadScene("VideoEarth");}
+
+                    else if(other.gameObject.name =="PortalToHub"){
+                        Debug.Log("PortalToHub touché --> scène Hub lancée");
+                        SceneManager.LoadScene("Hub");}
+
+                            else if(other.gameObject.name =="Water"){
+                        Debug.Log("Water touché --> scène relancée");
+                        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);}
  
 }
 

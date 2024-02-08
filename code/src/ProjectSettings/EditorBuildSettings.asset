@@ -6,12 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/hub.unity
-    guid: 7bbfc8bd495a34d43a0b8e04a6eada12
+    path: Assets/Scenes/Hub.unity
+    guid: ac397418f7887d245b4bb09fbd75d129
   - enabled: 1
-    path: Assets/Scenes/video1.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Fort.unity
+    guid: 0dd24ad521c73c04caf1f3590490853a
+  - enabled: 1
+    path: Assets/Scenes/VideoBeach.unity
+    guid: 92cdaac304dd56145bfa1613cb6833d1
+  - enabled: 1
+    path: Assets/Scenes/VideoBeach2.unity
+    guid: dd11435f270efc84f8f9ce73d93e519a
+  - enabled: 1
+    path: Assets/Scenes/VideoSea.unity
+    guid: 2782c7c6d3e5f6a45a8890d284439ad3
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb07fb5af8b44cd40ad3a3491fe099c7, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b0f33657718e45642977e114f1298e6d, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9203a536718277f41866f90b60a1ca7c, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b53b89ca9241447b0a56ff61fa931615,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f4f50c8f8f3454c90a388877cf1a2c81,
+      type: 2}
